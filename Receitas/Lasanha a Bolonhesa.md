@@ -1,8 +1,8 @@
-# Lasanha de Carne Moída :water_buffalo:
+Lasanha a Bolonhesa :water_buffalo:
+=======
 
-### Ingredientes
-
-
+Ingredientes
+-------
 
 - 500 g de massa de lasanha
 - 500 g de carne moída

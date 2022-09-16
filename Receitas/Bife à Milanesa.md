@@ -1,8 +1,9 @@
 # Bife à Milanesa :cow2:
 
-## Ingredientes
 
 
+Ingredientes
+-------
 
 - 1/2 kg de bife patinho, alcatra ou mignon
 
@@ -13,7 +14,9 @@
 - sal a gosto
 - pimenta do reino-a-gosto
 
-### Modo de Preparo 
+
+
+### Modo de Preparo
 
 Tempere os bifes a gosto e reserve.
 
